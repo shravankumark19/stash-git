@@ -1,6 +1,10 @@
 hi 
 this is file2
+<<<<<<< HEAD
 laxman
 ritesh
 shareef
 tirupathi
+=======
+stash concepy applied here
+>>>>>>> 3c9e3e8eeab58f5d9b533f6efbbc59d14f65a56e
