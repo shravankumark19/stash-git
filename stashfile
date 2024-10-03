@@ -1,4 +1,9 @@
 hello
 this is the stash file
+<<<<<<< HEAD
 file is modified in local termical
 stash concept applied in git
+=======
+making some changes in central repo github
+shravan 
+>>>>>>> 26cbab499425f7bcbf7adfbcfb248760a26dedda
