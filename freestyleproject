@@ -1,0 +1,4 @@
+hello
+systemctl print (statement)
+else
+systemctl print (error)
